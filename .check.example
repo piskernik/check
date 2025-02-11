@@ -1,0 +1,11 @@
+body: 'The website is not reachable: '
+config: /Users/example/.check
+intervall: 5
+log: check.log
+password: your-smtp-password
+port: 587
+recipient: check@example.com
+smtp: mail.example.com
+subject: 'Website is down: '
+url: http://www.example.com
+user: server@example.com
