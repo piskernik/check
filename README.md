@@ -1,4 +1,4 @@
-# Project Title
+# Check Uptime Monitor for Websites
 
 Check is a simple command line application to check the accessability to a certain website.
 
