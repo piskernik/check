@@ -20,14 +20,14 @@ If the website is not reachable, you can send an automated e-mail and/or log it 
 
 * Save the appropriate version according to your system in your home directory.
 ```
-wget www.github.com/piskernik/check/releases/check_arm_mac_0.1
-mv check_arm_mac_0.1 check
+wget https://github.com/piskernik/check/blob/main/releases/check_intel_linux_0.01
+mv check_intel_linux_0.1 check
 chmod u+x check
 ```
 
 ### Executing program
 
-`check -U https://www.example.com -l check.log`
+`./check -U https://www.example.com -l check.log`
 
 ## Help
 
